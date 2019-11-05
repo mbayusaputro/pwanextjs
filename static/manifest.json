@@ -1,0 +1,14 @@
+{
+  "name": "BIM",
+  "short_name": "BIM",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f0f0",
+  "theme_color": "#499D7B",
+  "description": "A simple BIM PWA.",
+  "icons": [{
+    "src": "/static/icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
